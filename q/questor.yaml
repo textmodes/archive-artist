@@ -1,0 +1,26 @@
+name: Questor
+country: ""
+work:
+- int-0395.zip/qt-reg1.ans
+- int-0395.zip/qt-sn1.ans
+- int-0495.zip/qt-blk1.ans
+- int-0495.zip/qt-malf1.ans
+- int-0495.zip/qt-solar.ans
+- int-0595.zip/qt-nite1.ans
+- int-0695.zip/qt-tst.ans
+- int-0695.zip/qt-ufate.ans
+- int-0795.zip/qt-mayo!.ans
+- int-0795.zip/qt-vos.ans
+- int-0895.zip/qt-ho3.ans
+- int-0995.zip/qt-soas.ans
+- mist0195.zip/qt-br1.ans
+- mist0896.zip/qt-ansi.ans
+- mist1094.zip/qt-at1.ans
+- mist1094.zip/qt-dg1.ans
+- mist1094.zip/qt-st1.ans
+- mist1194.zip/qt-mist1.zip.bak
+- mist1194.zip/qt-nm94.txt
+- mist1194.zip/qt-tst1.txt
+- mist1294.zip/qt-tvl1.ans
+- mist2yr1.zip/qt-edmtx.ans
+- mist2yr1.zip/qt-pic.ans

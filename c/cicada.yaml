@@ -1,0 +1,18 @@
+name: Cicada
+country: ""
+work:
+- punc0196.zip/ci-us.ans
+- punc0995.zip/ci-lock.lit
+- punc0995.zip/ci-logo1.ans
+- punc0995.zip/ci-logo2.ans
+- punc1095.zip/ci-ddn3.ans
+- punc1095.zip/ci-log.lit
+- punc1195.zip/ci-cih.ans
+- punc1195.zip/ci-crit.ans
+- punc1195.zip/ci-dib.ans
+- punc1195.zip/ci-f409.ans
+- punc1195.zip/ci-fl1.ans
+- punc1195.zip/ci-flny.ans
+- punc1195.zip/ci-punc1.ans
+- punc1295.zip/ci-stat.ans
+- punc1295.zip/ci-tbf1.ans

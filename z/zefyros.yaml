@@ -1,0 +1,13 @@
+name: Zefyros
+country: ""
+work:
+- break_02.zip/zfr-door.ans
+- break_02.zip/zfr-last.ans
+- break_02.zip/zfr-phar.ans
+- break_02.zip/zfr-sacb.ans
+- break_03.zip/zfr-90d.asc
+- break_04.zip/zfr-heat.ans
+- break_04.zip/zfr-melt.ans
+- break_04.zip/zfr-mhtm.ans
+- break_05.zip/zfr-brk5.txt
+- break_06.zip/zfr-phony.ans

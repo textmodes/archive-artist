@@ -1,0 +1,14 @@
+name: esc
+country: ""
+work:
+- impure02.zip/esc-indi.imp
+- impure02.zip/esc-teeh.imp
+- impure03.zip/esc-lqid.imp
+- impure03.zip/esc-page.imp
+- impure03.zip/esc-pge2.imp
+- impure03.zip/impquest.003
+- impure04.zip/esc-imp.asc
+- impure04.zip/esc-td.asc
+- twst-19.zip/esc-bad.asc
+- twst-19.zip/esc-coll.asc
+- twst-19.zip/esc-cyb.asc

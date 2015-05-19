@@ -1,0 +1,14 @@
+name: Inquisitor
+country: ""
+work:
+- int-0195.zip/iq-flt.ans
+- int-0195.zip/iq-soas2.ans
+- int-0295.zip/iq-cmg1.ans
+- int-0295.zip/iq-tst1.ans
+- int-0395.zip/iq-sl1.ans
+- int-0795.zip/iq-lquid.ans
+- int-0795.zip/iq-vida.bin
+- mist-lc-artdisk.zip/iq-pnr03.ans
+- mist1094.zip/iq-main.ans
+- mist1094.zip/iq-msg.ans
+- mist1094.zip/iq-pnr03.ans

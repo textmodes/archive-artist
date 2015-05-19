@@ -1,0 +1,10 @@
+name: Ddrj
+country: ""
+work:
+- mimic73.zip/drj-73.ans
+- mimic73.zip/drj-duck.ans
+- mimic73.zip/drj-gods.ans
+- mimic73.zip/drj-mmc.ans
+- mimic86.zip/drj-lip.asc
+- mimic86.zip/drj-nr.asc
+- pen15-05.zip/drj-pen15.ans

@@ -1,0 +1,23 @@
+name: Quick Silver
+country: ""
+work:
+- acdu0692.zip/acid-qs.ans
+- acdu0692.zip/ffacid3.ans
+- acdu0792.zip/qstcfist.ans
+- acdu0792.zip/razor2.ans
+- ice-0293.zip/qs-cw.ice
+- ice-0393.zip/qs-fus.ice
+- ice-0393.zip/qs-hemi.ice
+- ice-0393.zip/qs-hw.ice
+- ice-0393.zip/qs-stat.ice
+- icepk-09.zip/qs-fx2.ice
+- icepk-11.zip/qs-cci.ice
+- icepk-11.zip/qs-sanc.ice
+- m-9802.zip/qs-cci.ans
+- m-9803-a.zip/qs-cci.ans
+- m-9803-b.zip/qs-cci.ans
+- m-9803-c.zip/qs-cci.ans
+- m-9805-a.zip/qs-cci.ans
+- m-9805-b.zip/qs-cci.ans
+- m-9805-c.zip/qs-cci.ans
+- m-9806-a.zip/qs-cci.ans

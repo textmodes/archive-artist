@@ -1,0 +1,17 @@
+name: Necronite
+alias:
+- nECR0
+realname: Kevin Pearsall
+country: US
+work:
+- rmrs-01.zip/nn-md.ans
+- rmrs-01.zip/nn-rmrse.asc
+- rmrs-01.zip/nn-sanc.asc
+- rmrs-01.zip/nn-union.asc
+- rmrs-01.zip/nn-xtc.diz
+- rmrs-12.zip/nn-pm.asc
+- rmrs-14.zip/nn-iom.asc
+- rmrs-15.zip/nn-acid2.asc
+- rmrs-18.zip/nn-acid.asc
+- rmrs-18.zip/nn-ele.asc
+- rmrs-18.zip/nn-rmrs.ans

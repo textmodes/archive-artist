@@ -1,0 +1,23 @@
+name: spitfire
+alias:
+- spi7fire
+country: IL
+work:
+- imp2000.zip/spf-impr.asc
+- imp2000.zip/spf-lnda.asc
+- imp2000.zip/spf-mtls.asc
+- imp2000.zip/us-imp.asc
+- imp2000.zip/us-thug.asc
+- impure08.zip/spf-idrk.asc
+- impure08.zip/spf-impr.asc
+- impure08.zip/spf-krke.asc
+- impure08.zip/spf-mmic.asc
+- impure08.zip/spf-nasn.asc
+- impure08.zip/spf-trax.asc
+- impure08.zip/spf-woe_.asc
+- impure08.zip/spf-woez.asc
+- impure08.zip/spf-zoop.asc
+- impure08.zip/us-imp.asc
+- impure21.zip/spf-imps.asc
+- impure21.zip/spf-inso.asc
+- impure21.zip/us-imp.asc
